@@ -64,11 +64,11 @@
 
 .tier1:hover, .tier2:hover, .tier3:hover, .parent:hover, .child:hover {
   cursor: pointer;
-  animation: soft-glow 1s forwards ease-in-out infinite;
+  animation: soft-glow 1.5s forwards ease-in-out infinite;
 }
 
 .flash {
-  animation: flash 1s forwards ease-in-out infinite;
+  animation: flash 2s forwards ease-in-out infinite;
 }
 
 @keyframes flash {
